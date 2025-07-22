@@ -13,8 +13,8 @@
  # 💻 الكود 
 <pre>
 <code>
+	
 #include <Servo.h>
-
 Servo servo1;
 Servo servo2;
 Servo servo3;
